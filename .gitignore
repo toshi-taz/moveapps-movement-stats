@@ -419,3 +419,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,r,intellij,macos,windows,visualstudiocode
 .env
+.env
